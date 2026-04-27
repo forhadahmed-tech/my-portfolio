@@ -489,8 +489,8 @@ function Contact() {
         </p>
         <div style={{ display: "flex", gap: 12, justifyContent: "center", flexWrap: "wrap", marginBottom: 64 }}>
           <a href="mailto:forhad@example.com" data-hover style={{ fontFamily: "'Space Mono',monospace", fontSize: 12, letterSpacing: 1, padding: "13px 32px", background: "#e8ff47", color: "#0a0a0a", textDecoration: "none", fontWeight: 700 }}>SEND EMAIL →</a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" data-hover style={{ fontFamily: "'Space Mono',monospace", fontSize: 12, letterSpacing: 1, padding: "13px 32px", border: "1px solid rgba(232,255,71,0.4)", color: "#e8ff47", textDecoration: "none" }}>LINKEDIN</a>
-          <a href="https://github.com"   target="_blank" rel="noopener noreferrer" data-hover style={{ fontFamily: "'Space Mono',monospace", fontSize: 12, letterSpacing: 1, padding: "13px 32px", border: "1px solid rgba(232,255,71,0.4)", color: "#e8ff47", textDecoration: "none" }}>GITHUB</a>
+          <a href="https://www.linkedin.com/in/meforhadahmed/" target="_blank" rel="noopener noreferrer" data-hover style={{ fontFamily: "'Space Mono',monospace", fontSize: 12, letterSpacing: 1, padding: "13px 32px", border: "1px solid rgba(232,255,71,0.4)", color: "#e8ff47", textDecoration: "none" }}>LINKEDIN</a>
+          <a href="https://github.com/mecoderforhad"   target="_blank" rel="noopener noreferrer" data-hover style={{ fontFamily: "'Space Mono',monospace", fontSize: 12, letterSpacing: 1, padding: "13px 32px", border: "1px solid rgba(232,255,71,0.4)", color: "#e8ff47", textDecoration: "none" }}>GITHUB</a>
         </div>
         <div style={{ borderTop: "1px solid rgba(255,255,255,0.06)", paddingTop: 32, fontFamily: "'Space Mono',monospace", fontSize: 10, color: "rgba(255,255,255,0.22)", letterSpacing: 2 }}>
           FORHAD AHMED · DHAKA, BANGLADESH · FULL-STACK DEVELOPER
