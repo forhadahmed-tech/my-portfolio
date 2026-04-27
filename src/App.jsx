@@ -282,7 +282,7 @@ function Hero() {
         </div>
 
         <div style={{ display: "flex", gap: "clamp(20px,5vw,48px)", marginTop: 64, flexWrap: "wrap", opacity: 0, animation: "fadeUp 0.6s ease 0.65s forwards" }}>
-          {[["3+","Years Exp"],["5+","Products"],["3","Companies"],["∞","Commits"]].map(([n, l]) => (
+          {[["5+","Years Exp"],["20+","Products"],["3","Companies"],["∞","Commits"]].map(([n, l]) => (
             <div key={l}>
               <div style={{ fontFamily: "'Bebas Neue',cursive", fontSize: "clamp(1.8rem,4vw,2.6rem)", color: "#e8ff47", lineHeight: 1 }}>{n}</div>
               <div style={{ fontFamily: "'Space Mono',monospace", fontSize: 10, color: "rgba(255,255,255,0.3)", letterSpacing: 1, marginTop: 4 }}>{l}</div>
